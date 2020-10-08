@@ -1,0 +1,7 @@
+Compile
+g++ main.cpp graph.cpp -o exec
+
+
+Exec
+./exec 221.txt
+./exec equipe2.txt

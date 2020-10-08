@@ -1,0 +1,7 @@
+Compile
+g++ main.cpp ilha.cpp -o exec
+
+
+Exec
+./exec exemplo1.txt
+./exec equipe2.txt

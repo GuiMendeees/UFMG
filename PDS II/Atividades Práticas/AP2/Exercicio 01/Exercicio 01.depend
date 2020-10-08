@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1536588439 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap2\exercicio 01\ponto2d.cpp
+	"Ponto2D.hpp"
+
+1536587639 c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap2\exercicio 01\ponto2d.hpp
+	<iostream>
+
+1536591154 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap2\exercicio 01\retangulo.cpp
+	<iostream>
+	<math.h>
+	<algorithm>
+	"Retangulo.hpp"
+
+1536591449 c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap2\exercicio 01\retangulo.hpp
+	<iostream>
+	"Ponto2D.hpp"
+
+1536591448 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap2\exercicio 01\main.cpp
+	<iostream>
+	"Ponto2D.hpp"
+	"Retangulo.hpp"
+

@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1537883958 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap3\exercício 01\pessoa.cpp
+	"Pessoa.hpp"
+	<iostream>
+	<string>
+
+1537883958 c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap3\exercício 01\pessoa.hpp
+	<iostream>
+	<string>
+
+1537883969 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap3\exercício 01\main.cpp
+	<vector>
+	<string>
+	<iostream>
+	"Professor.hpp"
+	"Estudante.hpp"
+
+1537883340 c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap3\exercício 01\professor.hpp
+	<iostream>
+	<vector>
+	<string>
+	"Pessoa.hpp"
+
+1537883328 c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap3\exercício 01\estudante.hpp
+	<iostream>
+	<vector>
+	<string>
+	"Pessoa.hpp"
+
+1537883957 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap3\exercício 01\estudante.cpp
+	"Estudante.hpp"
+	<iostream>
+	<string>
+	<vector>
+
+1537892771 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap3\exercício 01\professor.cpp
+	"Professor.hpp"
+	<iostream>
+	<string>
+	<vector>
+

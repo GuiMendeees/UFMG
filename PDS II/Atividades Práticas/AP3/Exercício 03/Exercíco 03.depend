@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1538999555 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap3\exercício 03\exercíco 03\pacotedoisdias.cpp
+	"PacoteDoisDias.hpp"
+
+1538999385 c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap3\exercício 03\exercíco 03\pacotedoisdias.hpp
+	"Pacote.hpp"
+
+1538441825 c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap3\exercício 03\exercíco 03\pacote.hpp
+	<string>
+
+1538999581 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap3\exercício 03\exercíco 03\pacote.cpp
+	"Pacote.hpp"
+	<string>
+
+1538441892 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap3\exercício 03\exercíco 03\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<typeinfo>
+	"Pacote.hpp"
+	"PacoteDoisDias.hpp"
+	"PacoteNoturno.hpp"
+
+1538999590 c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap3\exercício 03\exercíco 03\pacotenoturno.hpp
+	"Pacote.hpp"
+
+1538999686 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap3\exercício 03\exercíco 03\pacotenoturno.cpp
+	"PacoteNoturno.hpp"
+

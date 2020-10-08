@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1537973746 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap3\exercício 02\forma.cpp
+	"Forma.hpp"
+
+1537977395 c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap3\exercício 02\forma.hpp
+	<string>
+
+1537982148 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap3\exercício 02\circulo.cpp
+	"Forma.hpp"
+	"FormaBidimensional.hpp"
+	"Circulo.hpp"
+	<cmath>
+
+1537980113 c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap3\exercício 02\formabidimensional.hpp
+	"Forma.hpp"
+	<string>
+
+1537977296 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap3\exercício 02\formabidimensional.cpp
+	"FormaBidimensional.hpp"
+	"Forma.hpp"
+	<string>
+
+1537982147 c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap3\exercício 02\circulo.hpp
+	"FormaBidimensional.hpp"
+	<algorithm>
+	<string>
+	<cmath>
+

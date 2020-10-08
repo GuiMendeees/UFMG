@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1540312070 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap4\atividade 01\exercíco 01\data.cpp
+	"Data.hpp"
+
+1540308298 c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap4\atividade 01\exercíco 01\data.hpp
+	<iostream>
+
+1540316730 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap4\atividade 01\exercíco 01\empregadocomissionado.cpp
+	"EmpregadoComissionado.hpp"
+
+1540314110 c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap4\atividade 01\exercíco 01\empregadocomissionado.hpp
+	<iostream>
+	"Empregado.hpp"
+
+1540317151 c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap4\atividade 01\exercíco 01\empregado.hpp
+	<iostream>
+	<string>
+	"Data.hpp"
+
+1540317212 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap4\atividade 01\exercíco 01\empregado.cpp
+	"Empregado.hpp"
+
+1540320579 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap4\atividade 01\exercíco 01\empregadosalariado.cpp
+	<iostream>
+	"EmpregadoSalariado.hpp"
+
+1540319958 c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap4\atividade 01\exercíco 01\empregadosalariado.hpp
+	"Empregado.hpp"
+
+1540320748 c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap4\atividade 01\exercíco 01\empregadocomissionadobase.hpp
+	<iostream>
+	"EmpregadoComissionado.hpp"
+
+1540320797 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap4\atividade 01\exercíco 01\empregadocomissionadobase.cpp
+	"EmpregadoComissionadoBase.hpp"
+
+1540311033 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap4\atividade 01\exercíco 01\empregadoporhora.cpp
+	"EmpregadoPorHora.hpp"
+
+1540308720 c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap4\atividade 01\exercíco 01\empregadoporhora.hpp
+	<iostream>
+	"Empregado.hpp"
+
+1540320623 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap4\atividade 01\exercíco 01\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<typeinfo>
+	<ctime>
+	<cstdlib>
+	"Empregado.hpp"
+	"EmpregadoSalariado.hpp"
+	"EmpregadoPorHora.hpp"
+	"EmpregadoComissionado.hpp"
+	"EmpregadoComissionadoBase.hpp"
+	"Data.hpp"
+

@@ -1,0 +1,53 @@
+#include <iostream>
+#include <math.h>
+#include <algorithm>
+#include "Retangulo.hpp"
+
+
+using namespace std;
+
+void Retangulo :: calcularArea (){
+   double larg;
+   double alt;
+
+    larg = (fabs(_PtSupEsq._x) + fabs( _PtInfDir._x));
+    alt = (fabs(_PtSupEsq._y) +  fabs(_PtInfDir._y));
+    double area = larg*alt;
+
+   // return area;
+    cout.precision(2);
+    cout <<area<<endl;
+
+};
+
+
+void Retangulo ::  calcularIntersecao (Retangulo ret2){
+    double area = 0;
+    Ponto2D IntSupEsq; // Ponto2D de Intersecao Superior Esquerda
+    IntSupEsq._x = max(this->_PtSupEsq._x,ret2._PtSupEsq._x);
+    IntSupEsq._y = min(this->_PtSupEsq._y,ret2._PtSupEsq._y);
+
+    Ponto2D IntInfDir;
+    IntInfDir._x = max(this->_PtInfDir._x,ret2._PtInfDir._x);
+    IntInfDir._y = min(this->_PtInfDir._y,ret2._PtInfDir._y);
+
+/*Uso do This para referenciar o Retangulo 1 (dono do metodo)
+
+ ///////////////////////////Algoritmo:
+ Se o Ponto Superior Esquerdo X da Intersecao for menor que o Inferior Direito X da Intersecao
+ e o Ponto Superior Esquerdo Y da Intercao for maior que o Inferior Direito Y da Intersecao ela existe
+ e sua área é (InfDir._x - SupEsq._x) * (SupEsq._y - InfDir._y)
+ caso haja alguma premissa inválida ela não existe e a área = 0 ];*/
+
+
+    if ((IntSupEsq._x < IntInfDir._x) && (IntSupEsq._y>IntInfDir._y)){
+        area = ((IntInfDir._x - IntSupEsq._x) * (IntSupEsq._y - IntInfDir._y));
+        cout.precision(2);
+        cout << area << endl;
+    }
+
+    else
+        cout << area <<endl;
+
+}
+

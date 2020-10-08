@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1536675239 source:c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap2\exercicio 02\aquecedor.cpp
+	<iostream>
+	<iomanip>
+	<algorithm>
+	"Aquecedor.hpp"
+
+1536675173 c:\users\ti\google drive\ufmg\2º periodo\pds ii\trabalho\ap2\exercicio 02\aquecedor.hpp
+	<iostream>
+	<iomanip>
+	<algorithm>
+

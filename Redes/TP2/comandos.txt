@@ -1,0 +1,2 @@
+python3 main.py -c 127.0.0.1 50511 cliente_in.txt cliente_out.txt
+python3 main.py -s 50511 server_in.txt server_out.txt

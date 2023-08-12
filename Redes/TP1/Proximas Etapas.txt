@@ -1,7 +1,0 @@
-Ver a ultima aula de conexão, entender porque ta dando erro na comunicação está conectando
-
-Leitura Stdin cliente
-envio para servidor
-recebimento do cliente
-tratamento de dados
-envio para o cliente
